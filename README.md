@@ -3,6 +3,7 @@
 <br/>
 O programa realiza o cálculo da comissão e o nível do jogador através dos parâmetros passados, retorna uma lista com todos os vendedores cadastrados e seus respectivos dados. 
 <br/>
+<br/> 
 
 * Nível
 * Nome
