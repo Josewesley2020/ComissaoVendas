@@ -1,0 +1,16 @@
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\bin\Debug\net5.0\DIO.Sales.exe
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\bin\Debug\net5.0\DIO.Sales.deps.json
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\bin\Debug\net5.0\DIO.Sales.runtimeconfig.json
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\bin\Debug\net5.0\DIO.Sales.runtimeconfig.dev.json
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\bin\Debug\net5.0\DIO.Sales.dll
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\bin\Debug\net5.0\ref\DIO.Sales.dll
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\bin\Debug\net5.0\DIO.Sales.pdb
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\obj\Debug\net5.0\DIO.Sales.csproj.AssemblyReference.cache
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\obj\Debug\net5.0\DIO.Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\obj\Debug\net5.0\DIO.Sales.AssemblyInfoInputs.cache
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\obj\Debug\net5.0\DIO.Sales.AssemblyInfo.cs
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\obj\Debug\net5.0\DIO.Sales.csproj.CoreCompileInputs.cache
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\obj\Debug\net5.0\DIO.Sales.dll
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\obj\Debug\net5.0\ref\DIO.Sales.dll
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\obj\Debug\net5.0\DIO.Sales.pdb
+C:\Users\jweso\OneDrive\Área de Trabalho\DigitalInnovation\DIO.Sales\obj\Debug\net5.0\DIO.Sales.genruntimeconfig.cache
